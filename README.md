@@ -11,7 +11,7 @@ Every LangGraph concept is isolated in its own file under [`app/graphs/`](app/gr
 
 ## Features covered
 
-| # | Demo | LangGraph concepts |
+| # | Feature | LangGraph concepts |
 |---|------|---------------------|
 | 1 | `basic` | `StateGraph`, `TypedDict` state, nodes, edges, `START`/`END` |
 | 2 | `conditional` | `add_conditional_edges`, routing functions, cycles/loops |
