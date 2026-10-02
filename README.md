@@ -1,4 +1,4 @@
-# LangGraph Demo
+# LangGraph 
 
 A hands-on tour of [LangGraph](https://langchain-ai.github.io/langgraph/) features, built with:
 
